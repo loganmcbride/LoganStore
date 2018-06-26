@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,300);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One:400,700,300);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700);
+@import url(https://fonts.googleapis.com/css?family=Cabin:400,500,700);
+a#link_dy_hero_banner_title {    
+    text-decoration:none;
+}
+#dy_hero_banner {    
+    text-decoration:none;    font-size:18px;  font-family: 'Open Sans', sans-serif;    color: #fff;    height:400px;    min-width:320px;    background-image:url('file:///Users/loganmcbride/Documents/Photos/IMG_1556.JPG');    background-size:cover;    background-position:center center;    position: relative;
+}    
+#dy_hero_banner_texts {    
+    position: absolute;  top: 40%;    bottom: 0;    padding: 0 50px;     left: 0;  right: 0;
+}
+#dy_hero_banner_texts * {  
+    text-decoration: none;
+}
+#dy_hero_banner_title {    
+    font-size:40px;     font-weight:bold;
+}
+#dy_hero_banner_subtitle {   
+    margin-top:10px;
+}
+#dy_hero_banner_button {  
+    margin-top:20px;  padding: 10px 13px;    border-radius:1px;  transition:0.2s;  font-size:15px;  display:inline-block;      -webkit-box-shadow: inset 0px 0px 0px 2px #fff;  -moz-box-shadow: inset 0px 0px 0px 2px #fff;  box-shadow: inset 0px 0px 0px 2px #fff;    background:rgba(0,0,0,0.1);
+}
+#dy_hero_banner_button:hover {  
+    -webkit-box-shadow: inset 0px 0px 0px 3px #fff;  -moz-box-shadow: inset 0px 0px 0px 3px #fff;  box-shadow: inset 0px 0px 0px 3px #fff;
+}
