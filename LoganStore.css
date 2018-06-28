@@ -8,7 +8,7 @@ a#link_dy_hero_banner_title {
     text-decoration:none;
 }
 #dy_hero_banner {    
-    text-decoration:none;    font-size:18px;  font-family: 'Open Sans', sans-serif;    color: #fff;    height:400px;    min-width:320px;    background-image:url('file:///Users/loganmcbride/Documents/Photos/IMG_1556.JPG');    background-size:cover;    background-position:center center;    position: relative;
+    text-decoration:none;    font-size:18px;  font-family: 'Open Sans', sans-serif;    color: #fff;    height:400px;    min-width:320px;    background-image:url('https://wallpapercave.com/wp/kb9dMjt.jpg');    background-size:cover;    background-position:center center;    position: relative;
 }    
 #dy_hero_banner_texts {    
     position: absolute;  top: 40%;    bottom: 0;    padding: 0 50px;     left: 0;  right: 0;
