@@ -28,3 +28,11 @@ a#link_dy_hero_banner_title {
 #dy_hero_banner_button:hover {  
     -webkit-box-shadow: inset 0px 0px 0px 3px #fff;  -moz-box-shadow: inset 0px 0px 0px 3px #fff;  box-shadow: inset 0px 0px 0px 3px #fff;
 }
+
+#page_title {
+    padding: 25px 50px 75px 100px; font-size:40px; font-weight:bold;
+}
+
+#add_to_cart {
+    height: 30px; width: 100px;
+}
